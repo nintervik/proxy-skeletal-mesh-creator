@@ -8,5 +8,5 @@ skin weights.
 - Useful for animation previz, proxy rig LOD, and to better visualize the 
 body parts' movement and weight.
 
-![](https://github.com/proxy-skeletal-mesh-creator
+![](https://github.com/nintervik/proxy-skeletal-mesh-creator
 /proxy_sk_mesh_creator_showcase.gif)
